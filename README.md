@@ -1,2 +1,2 @@
 # EE296
-Hi my name is Emily.
+Hi! My name is Emily.
